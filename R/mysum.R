@@ -11,3 +11,4 @@
 mysum <- function(x) {
   x^2
 }
+gitcreds::gitcreds_set()
