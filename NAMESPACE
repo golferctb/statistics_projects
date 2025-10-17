@@ -3,6 +3,7 @@
 export(birthday)
 export(mysum)
 export(scatterhist)
+export(timesample)
 importFrom(graphics,barplot)
 importFrom(graphics,hist)
 importFrom(graphics,layout)
