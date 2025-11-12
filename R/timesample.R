@@ -1,4 +1,4 @@
-#' Timed Sample Charts
+#' @title Timed Sample Charts
 #'
 #' @param n A vector with a sample
 #' @param iter number of bar charts to make
@@ -6,6 +6,7 @@
 #'
 #' @returns Generates a new bar chart to console every specified second.
 #' @export
+#' @importFrom grDevices rainbow
 #'
 #' @examples
 #' timesample(100, 10, 1)
