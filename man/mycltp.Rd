@@ -13,7 +13,10 @@ mycltp(n, iter, lambda = 10, ...)
 
 \item{lambda}{lambda parameter for poisson}
 
-\item{...}{}
+\item{...}{Other arguments to be sent to the histogram}
+}
+\value{
+Histogram and Barplot
 }
 \description{
 My Central Limit Poisson
